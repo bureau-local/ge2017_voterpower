@@ -63,12 +63,10 @@ Filtering the region column can help you find the constituencies you are interes
 #### <br></br>
 #### The Stories Derived from the Data
 * Daily Gazette/Essex County Standard:
-
 “Some 6,000 new voters register for Thursday's election - more than in any othe rmarginal constituency”
 http://www.gazettenews.co.uk/news/15329028.9_000_new_voters_register_for_Thursday_s_election___more_than_in_any_other_constituency/?ref=mrb&lp=12
 
 * Oxford Mail
-
 “Revealed: New data shows who could tip the battle for Oxford West and Abingdon”
 http://www.oxfordmail.co.uk/news/yourtown/oxford/15330177.Revealed__New_data_shows_who_could_tip_the_battle_for_Oxford_West_and_Abingdon/
 
