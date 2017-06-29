@@ -1,6 +1,7 @@
 # Voter Power GE2017
 *A Bureau Local Investivation*
 
+<br></br>
 **Which group of voters can determine the election’s outcome**
 
 <br></br>
@@ -9,7 +10,7 @@ The ‘first past the post’ electoral system in place in the UK doesn’t gran
 
 From education, to age, to those registered and not, we set out to find out who had the power to determine the result in their local constituency and how that reflected national trends.
 
-<br>
+<br></br>
 #### Voter Power Hack Day:
 Assembling the combined effort of local journalists across the country for a hack day, the aim was to dig into the data together and break on the same day to create a national and local discussion on voter power.
 
@@ -21,7 +22,7 @@ The Bureau worked with them and expanded their measures across the country. We f
 
 We then rang up local authorities to get actual registration numbers for over 50 constituencies - in doing do, finding that our model was very close (if over-estimated registration figures by less than 1% on average) and we used exact numbers in our piece.
 
-<br>
+<br></br>
 #### The Methodology:
 There is a lot of data in our database - over 600 variables actually!
 Here’s how we obtained the variables:
@@ -45,7 +46,7 @@ Here’s how we obtained the variables:
  
 1.	The general population of each constituency: This was obtained from the 2011 Census and updated using the same growth factors as mentioned above. The growth factors were applied constantly across constituencies (this assumes that the population in each constituency grew at approximately the same rate).
 
-<br>
+<br></br>
 #### The Datasets
 The first two datasets you will find in the ‘Data’ sections are the ‘Voter Power Story Data’ containing the data we ended up using in our piece and a spreadsheet of survey responses.
 
@@ -59,7 +60,7 @@ Each of these contains the four datasets:
 
 Some of this data is as recent as this year but many are from the 2011 Census, which may also come in handy.
 
-<br>
+<br></br>
 #### Finding your constituency
 For all datasets (except for the survey responses), each row is a constituency. This allows you to filter just for one constituency and easily get the data in the columns that accompany it, but also allows you to access all constituencies if you want to compare one or more constituencies to the whole.
 
