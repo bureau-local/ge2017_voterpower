@@ -1,15 +1,12 @@
 # Voter Power GE2017
 *A Bureau Local Investivation*
-
 <br></br>
 **Which group of voters can determine the election’s outcome**
-
 <br></br>
 #### Hypothesis:
 The ‘first past the post’ electoral system in place in the UK doesn’t grant every voter the same power. The datasets contained in this repositery were put together with this in mind by the Bureau Local in order to understand the demographics of the UK electorate ahead of the 2017 General Election and to discover which constituencies, and which groups within them, held the most sway.
 
 From education, to age, to those registered and not, we set out to find out who had the power to determine the result in their local constituency and how that reflected national trends.
-
 <br></br>
 #### Voter Power Hack Day:
 Assembling the combined effort of local journalists across the country for a hack day, the aim was to dig into the data together and break on the same day to create a national and local discussion on voter power.
@@ -21,7 +18,6 @@ Throughout the hackday 65 participants in Glasgow, Cardiff, Bournemouth, Birming
 The Bureau worked with them and expanded their measures across the country. We found there to be 71 seats where these 'partyless' voters were larger than the margin in the last election - 19 due to increase in new voters alone.
 
 We then rang up local authorities to get actual registration numbers for over 50 constituencies - in doing do, finding that our model was very close (if over-estimated registration figures by less than 1% on average) and we used exact numbers in our piece.
-
 <br></br>
 #### The Methodology:
 There is a lot of data in our database - over 600 variables actually!
@@ -45,7 +41,6 @@ Here’s how we obtained the variables:
 1.	The number and proportion of those who are eligible to vote 2017: This was computed by subtracting from the general population of each constituency the number of persons aged 0 to 17. This number was obtained from the 2011 Census and updated using a growth factor of 0.03053 for England and Wales and 0.01379 for Scotland. The growth factor was obtained by comparing mid-year ONS population estimates for 2011 and 2015 (most recent available) (https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates)
  
 1.	The general population of each constituency: This was obtained from the 2011 Census and updated using the same growth factors as mentioned above. The growth factors were applied constantly across constituencies (this assumes that the population in each constituency grew at approximately the same rate).
-
 <br></br>
 #### The Datasets
 The first two datasets you will find in the ‘Data’ sections are the ‘Voter Power Story Data’ containing the data we ended up using in our piece and a spreadsheet of survey responses.
@@ -59,7 +54,6 @@ Each of these contains the four datasets:
 1.	**Powergroups** - to get up-to-date modelled data for 72 precise demographic groups.
 
 Some of this data is as recent as this year but many are from the 2011 Census, which may also come in handy.
-
 <br></br>
 #### Finding your constituency
 For all datasets (except for the survey responses), each row is a constituency. This allows you to filter just for one constituency and easily get the data in the columns that accompany it, but also allows you to access all constituencies if you want to compare one or more constituencies to the whole.
