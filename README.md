@@ -61,7 +61,7 @@ For all datasets (except for the survey responses), each row is a constituency. 
 Filtering the region column can help you find the constituencies you are interested in.
 <br></br>
 #### The Stories Derived from the Data
-* Daily Gazette/Essex County Standard <br></br> “Some 6,000 new voters register for Thursday's election - more than in any othe rmarginal constituency”
+* Daily Gazette/Essex County Standard </br> “Some 6,000 new voters register for Thursday's election - more than in any othe rmarginal constituency”
 http://www.gazettenews.co.uk/news/15329028.9_000_new_voters_register_for_Thursday_s_election___more_than_in_any_other_constituency/?ref=mrb&lp=12
 
 * Oxford Mail
