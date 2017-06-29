@@ -3,7 +3,7 @@
 
 **Which group of voters can determine the election’s outcome**
 
-</br>
+<br></br>
 #### Hypothesis:
 The ‘first past the post’ electoral system in place in the UK doesn’t grant every voter the same power. The datasets contained in this repositery were put together with this in mind by the Bureau Local in order to understand the demographics of the UK electorate ahead of the 2017 General Election and to discover which constituencies, and which groups within them, held the most sway.
 
