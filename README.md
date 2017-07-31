@@ -93,7 +93,14 @@ For all datasets (except for the survey responses), each row is a constituency. 
 
 Filtering the region column can help you find the constituencies you are interested in.
 <br></br>
-#### The Stories Derived from the Data
+### The demographic info
+* As we mentioned earlier, you can also find demographic information for England and Wales in the data folder by going to ‘EW Demographic’ found in the ‘England and Wales’ folder of the ‘Data’ section.
+
+* A lot of these are from the 2011 census, but there’s also some more recent datasets we’ve incorporated in there. 
+
+* We’ve used this ourselves for the statistical model we used to break down the register and turnout data by gender, age and education.
+<br></br>
+### The Stories Derived from the Data
 * Plymouth Herald
 “Revealed: 3,000 new voters could swing general election in Plymouth's tightest seat”
 http://www.plymouthherald.co.uk/revealed-3-000-new-voters-could-swing-election-in-plymouth-s-tightest-seat/story-30374982-detail/story.html
@@ -104,7 +111,7 @@ https://thebristolcable.org/2017/07/data-leaves-bristol-dark-ads-arrive-microtar
 
 * Daily Gazette/Essex County Standard
 “Some 6,000 new voters register for Thursday's election - more than in any other marginal constituency”
-http://www.gazettenews.co.uk/news/15329028.9_000_new_voters_register_for_Thursday_s_election___more_than_in_any_other_constituency/?ref=mrb&lp=12
+http://www.gazette-news.co.uk/news/15329028.More_than_9_000_new_registered_voters_forecast_for_town_s_election/
 
 * Oxford Mail
 “Revealed: New data shows who could tip the battle for Oxford West and Abingdon”
