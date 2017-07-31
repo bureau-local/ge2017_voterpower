@@ -101,57 +101,39 @@ Filtering the region column can help you find the constituencies you are interes
 * We’ve used this ourselves for the statistical model we used to break down the register and turnout data by gender, age and education.
 <br></br>
 ### The Stories Derived from the Data
-* Plymouth Herald</br>“Revealed: 3,000 new voters could swing general election in Plymouth's tightest seat”
-http://www.plymouthherald.co.uk/revealed-3-000-new-voters-could-swing-election-in-plymouth-s-tightest-seat/story-30374982-detail/story.html
+* Plymouth Herald</br>“Revealed: 3,000 new voters could swing general election in Plymouth's tightest seat”</br>http://www.plymouthherald.co.uk/revealed-3-000-new-voters-could-swing-election-in-plymouth-s-tightest-seat/story-30374982-detail/story.html
 
-* The Bristol Cable</br>“Data leaves Bristol, dark ads arrive: how microtargeting is changing elections”
-https://thebristolcable.org/2017/07/data-leaves-bristol-dark-ads-arrive-microtargeting-changing-elections/
+* The Bristol Cable</br>“Data leaves Bristol, dark ads arrive: how microtargeting is changing elections”</br>https://thebristolcable.org/2017/07/data-leaves-bristol-dark-ads-arrive-microtargeting-changing-elections/
 
-* Daily Gazette/Essex County Standard</br>“Some 6,000 new voters register for Thursday's election - more than in any other marginal constituency”
-http://www.gazette-news.co.uk/news/15329028.More_than_9_000_new_registered_voters_forecast_for_town_s_election/
+* Daily Gazette/Essex County Standard</br>“Some 6,000 new voters register for Thursday's election - more than in any other marginal constituency”</br>http://www.gazette-news.co.uk/news/15329028.More_than_9_000_new_registered_voters_forecast_for_town_s_election/
 
-* Oxford Mail</br>“Revealed: New data shows who could tip the battle for Oxford West and Abingdon”
-http://www.oxfordmail.co.uk/news/yourtown/oxford/15330177.Revealed__New_data_shows_who_could_tip_the_battle_for_Oxford_West_and_Abingdon/
+* Oxford Mail</br>“Revealed: New data shows who could tip the battle for Oxford West and Abingdon”</br>http://www.oxfordmail.co.uk/news/yourtown/oxford/15330177.Revealed__New_data_shows_who_could_tip_the_battle_for_Oxford_West_and_Abingdon/
 
-* Ham&High</br>“Influx of new voters in Hampstead and Kilburn could swing the election”
-http://www.hamhigh.co.uk/seasonal/election/influx-of-new-voters-in-hampstead-and-kilburn-could-swing-the-election-1-5052678
+* Ham&High</br>“Influx of new voters in Hampstead and Kilburn could swing the election”</br>http://www.hamhigh.co.uk/seasonal/election/influx-of-new-voters-in-hampstead-and-kilburn-could-swing-the-election-1-5052678
 
-* Chester Chronicle</br>“Could Chester's former UKIP voters decide city's next MP?”
-http://www.chesterchronicle.co.uk/news/chester-cheshire-news/could-chesters-former-ukip-voters-13149238
+* Chester Chronicle</br>“Could Chester's former UKIP voters decide city's next MP?”</br>http://www.chesterchronicle.co.uk/news/chester-cheshire-news/could-chesters-former-ukip-voters-13149238
 
-* East London Lines</br>“Young voters could sway Croydon”
-http://www.eastlondonlines.co.uk/2017/06/young-voters-could-sway-croydon/
+* East London Lines</br>“Young voters could sway Croydon”</br>http://www.eastlondonlines.co.uk/2017/06/young-voters-could-sway-croydon/
 
-* Richmond & Twickenham Times</br>“New voters could decide Twickenham in general election”
-http://www.richmondandtwickenhamtimes.co.uk/news/15331489.New_voters_could_decide_Twickenham_in_general_election/
+* Richmond & Twickenham Times</br>“New voters could decide Twickenham in general election”</br>http://www.richmondandtwickenhamtimes.co.uk/news/15331489.New_voters_could_decide_Twickenham_in_general_election/
 
-* digitalWestie GitHubGist</br>“What matters in predicting voter turnout?”
-https://gist.github.com/digitalWestie
+* digitalWestie GitHubGist</br>“What matters in predicting voter turnout?”</br>https://gist.github.com/digitalWestie
 
-* Sutton Coldfield Local</br>“Why 17000 UKIP voters could hold the balance of power in Erdington, Edgbaston and Northfield”
-http://suttoncoldfieldlocal.co.uk/17000-ukip-voters-hold-balance-power-erdington-edgbaston-northfield-4237642342/
+* Sutton Coldfield Local</br>“Why 17000 UKIP voters could hold the balance of power in Erdington, Edgbaston and Northfield”</br>http://suttoncoldfieldlocal.co.uk/17000-ukip-voters-hold-balance-power-erdington-edgbaston-northfield-4237642342/
 
-* New-West Evening Mail</br>“New voters hold power to decide crucial Barrow and Furness constituency”
-http://www.nwemail.co.uk/news/barrow/New-voters-hold-power-to-decide-crucial-Barrow-and-Furness-constituency-22d6f880-9854-4054-ad7b-b77d7e47fdcd-ds
+* New-West Evening Mail</br>“New voters hold power to decide crucial Barrow and Furness constituency”</br>http://www.nwemail.co.uk/news/barrow/New-voters-hold-power-to-decide-crucial-Barrow-and-Furness-constituency-22d6f880-9854-4054-ad7b-b77d7e47fdcd-ds
 
-* Croydon Advertiser</br>“​1,800 new voters could swing Croydon Central vote, new data reveals”
-http://www.croydonadvertiser.co.uk/8203-1-800-new-voters-could-swing-croydon-central-vote-new-data-reveals/story-30376525-detail/story.html
+* Croydon Advertiser</br>“​1,800 new voters could swing Croydon Central vote, new data reveals”</br>http://www.croydonadvertiser.co.uk/8203-1-800-new-voters-could-swing-croydon-central-vote-new-data-reveals/story-30376525-detail/story.html
 
-* Devonlive.com</br>“Calls made for an inquiry into postal vote 'cock-up' in Plymouth”
-http://www.devonlive.com/calls-made-for-an-inquiry-into-postal-vote-cock-up-in-plymouth/story-30376026-detail/story.html
+* Devonlive.com</br>“Calls made for an inquiry into postal vote 'cock-up' in Plymouth”</br>http://www.devonlive.com/calls-made-for-an-inquiry-into-postal-vote-cock-up-in-plymouth/story-30376026-detail/story.html
 
-* Clacton Gazette</br>“It's all over bar the voting... YOU go to the polls today to vote for your MP in the UK General Election 2017”
-http://www.clactonandfrintongazette.co.uk/news/north_essex_news/15333536.ELECTION__It_s_all_over_bar_the_voting____YOU_go_to_the_polls_today_to_vote_for_your_MP/
+* Clacton Gazette</br>“It's all over bar the voting... YOU go to the polls today to vote for your MP in the UK General Election 2017”</br>http://www.clactonandfrintongazette.co.uk/news/north_essex_news/15333536.ELECTION__It_s_all_over_bar_the_voting____YOU_go_to_the_polls_today_to_vote_for_your_MP/
 
-* Daily Gazette</br>“It's all over bar the voting... YOU go to the polls today to vote for your MP in the UK General Election 2017.”
-http://www.gazette-news.co.uk/news/local/15333536.ELECTION__It_s_all_over_bar_the_voting____YOU_go_to_the_polls_today_to_vote_for_your_MP/
+* Daily Gazette</br>“It's all over bar the voting... YOU go to the polls today to vote for your MP in the UK General Election 2017.”</br>http://www.gazette-news.co.uk/news/local/15333536.ELECTION__It_s_all_over_bar_the_voting____YOU_go_to_the_polls_today_to_vote_for_your_MP/
 
-* Oxford Herald</br>“Revealed: New data shows who could tip the battle for Oxford West and Abingdon”
-http://www.heraldseries.co.uk/news/15330177.Revealed__New_data_shows_who_could_tip_the_battle_for_Oxford_West_and_Abingdon/
+* Oxford Herald</br>“Revealed: New data shows who could tip the battle for Oxford West and Abingdon”</br>http://www.heraldseries.co.uk/news/15330177.Revealed__New_data_shows_who_could_tip_the_battle_for_Oxford_West_and_Abingdon/
 
-* Your Local Guardian</br>“First time voter Oliver Finney says he was denied his chance to vote in Twickenham 'because his name had already been crossed”
-http://www.yourlocalguardian.co.uk/news/15339514.This_first_time_voter_says_he_was_denied_his_chance_to_vote_in_Twickenham__because_his_name_had_already_been_crossed_off_/
+* Your Local Guardian</br>“First time voter Oliver Finney says he was denied his chance to vote in Twickenham 'because his name had already been crossed”</br>http://www.yourlocalguardian.co.uk/news/15339514.This_first_time_voter_says_he_was_denied_his_chance_to_vote_in_Twickenham__because_his_name_had_already_been_crossed_off_/
 
-* Your Local Guardian</br>“New voters could decide Twickenham in general election.”
-http://www.yourlocalguardian.co.uk/news/15331489.New_voters_could_decide_Twickenham_in_general_election/
+* Your Local Guardian</br>“New voters could decide Twickenham in general election.”</br>http://www.yourlocalguardian.co.uk/news/15331489.New_voters_could_decide_Twickenham_in_general_election/
 
