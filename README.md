@@ -3,31 +3,62 @@
 <br></br>
 **Which group of voters can determine the election’s outcome**
 <br></br>
-#### Hypothesis:
-The ‘first past the post’ electoral system in place in the UK doesn’t grant every voter the same power. The datasets contained in this repositery were put together with this in mind by the Bureau Local in order to understand the demographics of the UK electorate ahead of the 2017 General Election and to discover which constituencies, and which groups within them, held the most sway.
+#### In brief:
+Ahead of the 2017 General Election, the Bureau Local pulled together a robust database of demographics of the UK electorate and worked with two statisticians to estimate and verify registration figures.
 
-From education, to age, to those registered and not, we set out to find out who had the power to determine the result in their local constituency and how that reflected national trends.
+From education to age, to those registered and not, the Bureau Local set out to find who had the power to determine the result in their local constituency and how that reflected national trends.
 <br></br>
 #### Voter Power Hack Day:
-Assembling the combined effort of local journalists across the country for a hack day, the aim was to dig into the data together and break on the same day to create a national and local discussion on voter power.
+The Bureau Local organised a hack day so that physical and digital attendees could dig into the data and find and break stories together. This aim resulted in collaborative journalism and a national and local discussion on voter power.
 
-At the hack day everyone had a chance to dig into a vast dataset of variables related to demographics - from income and education levels to past vote, marginality and past registration. The model also used data on England and Wales from the Office of National Statistics, the Cabinet Office and the British Election Study to estimate the number registered voters seat by seat - something not available in a central database.
+At the hack day everyone had a chance to dig into a vast dataset of variables related to demographics - from income and education levels to past vote, majority and past registration. A model was built ahead of time and used data on England and Wales from the Office of National Statistics, the Cabinet Office and the British Election Study to estimate the number registered voters in each seat - something not available in a central database. 
 
-Throughout the hackday 65 participants in Glasgow, Cardiff, Bournemouth, Birmingham and London each dug into the data differently in order to find stories for their own communities. Two journalists in London - Matty Edwards and Ed Fairhead - started looking at how our estimated registration numbers compared to the margin in the seats they cover, Croydon Central and Colchester respectively. They found these seats to have an increase in voter registration larger than the 2015 margin. They also looked at the size of past UKIP voters in Colchester where the party was no longer standing in 2017.
+Throughout the hack day 65 participants in Glasgow, Cardiff, Bournemouth, Birmingham and London each dug into the data in order to find stories for their own communities. Two journalists in London - Matty Edwards and Ed Fairhead - started looking at how our estimated registration numbers compared to the margin in the seats they cover - Croydon Central and Colchester respectively. They found these seats had an increase in new voters larger than the 2015 margin. They also looked at the number of past UKIP voters in Colchester, where the party was no longer standing in 2017. 
 
-The Bureau worked with them and expanded their measures across the country. We found there to be 71 seats where these 'partyless' voters were larger than the margin in the last election - 19 due to increase in new voters alone.
+The Bureau worked with Edwards and Fairhead and expanded their measures across the country. We found there were 71 seats where the number of 'partyless' voters - newly-registered, or former Green and UKIP voters whose party wasn't standing this time around - was larger than the margin in the last election. In 19 seats this was due to the increase in new voters alone. 
 
-We then rang up local authorities to get actual registration numbers for over 50 constituencies - in doing do, finding that our model was very close (if over-estimated registration figures by less than 1% on average) and we used exact numbers in our piece.
+
+We then rang up local authorities to get actual registration numbers for over 50 constituencies, and in doing do, found that our model was very accurate - it over-estimated registration figures by less than 1% on average. We used exact numbers - not estimates - in our piece.
+
+* **_The Bureau Local’s pre-election assessment:_**
+“How new voters could dent Theresa May’s election majority”
+https://www.thebureauinvestigates.com/stories/2017-06-06/new-voters-hold-the-power-to-swing-the-election-shows-new-analysis
+
+“The analysis has found 50,000 new voters in 19 seats where the increase in voter registration is greater than the majority won by the victorious candidate in the last election.
+
+Less than 7,000 of these newly-registered voters have the power to swing six key Conservative seats: Derby North, Thurrock, Croydon Central, Twickenham, Plymouth Sutton & Devonport, and Crewe & Nantwich.
+
+If Theresa May loses six seats without winning any new ones, she will no longer have a parliamentary majority.
+Three further Tory-controlled seats - Colchester, Telford and Bedford - also have more new voters than the margin…
+
+Both the Green Party and UKIP no longer have candidates standing which adds an additional 3,000 UKIP and nearly 2,500 Green voters to fight for.”
+
+**_At the bottom of this document you will find links to some of the local stories published._**
+
+**_The Bureau Local’s response to the election result:_**
+“How new voter power identified by the Bureau damaged Theresa May”
+https://www.thebureauinvestigates.com/stories/2017-06-09/how-new-voter-power-identified-by-the-bureau-damaged-theresa-may
+
+The wins and losses confounded all forecasts by pollsters in the run-up, who looked at voting patterns and intentions to predict a Tory majority of anything from the dozens to more than 100. Instead, they lost 12 seats.
+
+However many of these losses fell in line with modelling carried out by the Bureau’s data journalism team the Bureau Local.
+
+Following our hack day we identified two large groups of voters who had the power to swing 71 constituencies in England and Wales: people registered to vote for the first time, and people who voted UKIP or Green in 2015 whose party was not standing a candidate this time around. And 20 of those constituencies changed hands.
+
+Of those 71 seats, 35 were Conservative, 32 were Labour and four were Lib Dem. The Tories lost 16 of them, the Lib Dems lost two and Labour held on to all but two.
+
+Across the whole of England and Wales, 44 seats changed hands - meaning our modelling identified nearly half of them.
 <br></br>
 #### The Methodology:
 There is a lot of data in our database - over 600 variables actually!
 Here’s how we obtained the variables:
  
-1.	% vote share for each party in the 2015 and 2010 elections: We divided the number of votes each party received by the total number of people that voted in that constituency.
-1.	The number of registered voters in 2017: we derived the number of registered voters in each constituency for the coming elections, using data from several sources and carrying out several procedures:
-    1.	We used data from the ONS that reported the exact number of registered voters on the 31st of December 2016 for each constituency
+1.	**% vote share for each party in the 2015 and 2010 elections:** We divided the number of votes each party received by the total number of people that voted in that constituency.
+1.	**The number of registered voters in 2017:** we derived the number of registered voters in each constituency for the coming elections, using data from several sources and carrying out several procedures:
+    1.	We used data from the ONS that reported the exact number of registered voters on the 31st of December 2016 for each constituency.
     1.	We used the number of registration applications received UK wide between the 1st of January 2017 and the 22nd of May 2017. This was        obtained from the Cabinet Office via: https://www.gov.uk/performance/register-to-vote.
-    1.	We apportioned this total number of applications to England + Wales and to Scotland proportional to their respective population            sizes. Following this, we apportioned these numbers to individual constituencies proportional to their size (this assumes that the        rate of registration is similar across constituencies – in reality this might be a strong assumption).
+    1.	We apportioned this total number of applications to individual constituencies in England, Wales and Scotland proportional to the          distribution that was observed between the number of registered voters on the 31st of December 2014 for each constituency (as              reported by the ONS) and the number of registered voters for the 2015 General Election for each constituency (as reported by the          Electoral Commision). This assumes that the rate of registration in individual constituencies would be the same as in the last            General Election – in reality this might be a strong assumption.
+        1. Originally, we apportioned the total number in proportion to the population (not the past election distribution) but this                  didn’t take into account the student population - which can register either at home or where they go to university - so we used            the above model instead.
     1.	We computed the total number of registered voters for the 2017 elections for each constituency by adding up the number of people          registered at the end of 2016 with the apportioned number of those registered in 2017. 
     1.	We subtracted the number of people that are likely to have fallen of the register (e.g. died) in the first five months of 2017. (We        did this by comparing December 2015 to December 2016 registration numbers after subtracting the number of registrations received          between the two months).
     1.	We then rescaled these estimates according to the likelihood of being registered, obtained using a statistical model based on the          British Elections Study data from 2016 and age, education and gender.
